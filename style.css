@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+#number {
+    width: 6em;
+    font-size: 25px;
+}
+
+#button {
+    padding: 5px 12px;
+    font-size: 25px;
+    margin: 10px 20px;
+}
+
+.dices_img {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    margin: 10px;
+}
